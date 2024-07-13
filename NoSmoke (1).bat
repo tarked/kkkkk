@@ -9,7 +9,7 @@ echo                                  xxxxxxx
 echo                               x xxxxxxxxxxxxx x
 echo                            x     xxxxxxxxxxx     x
 echo                                   xxxxxxxxx
-dcho                         x          xxxxxxx          x
+echo                         x          xxxxxxx          x
 echo                                     xxxxx
 echo                       x             xxx             x
 echo                                       x
